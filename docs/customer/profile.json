@@ -1,52 +1,64 @@
 {
   "companyName": "楔子科技（杭州）有限公司",
   "shortName": "楔子科技",
-  "summary": "杭州地区科技企业",
+  "summary": "杭州余杭区软件/AI开发小微企业，2022年成立，主营软件开发、AI应用、软件外包服务",
   "industry": "科技/软件",
-  "subIndustry": "",
-  "scale": "",
-  "mainBusiness": "",
-  "products": [],
+  "subIndustry": "软件开发/人工智能",
+  "scale": "小微",
+  "mainBusiness": "软件开发；AI应用软件开发；软件外包服务；信息技术咨询服务",
+  "products": ["软件开发服务", "AI应用软件开发", "网络与信息安全软件"],
   "targetCustomers": [],
-  "businessModel": "",
+  "businessModel": "项目制/定制开发",
   "rating": "",
-  "tags": [],
-  "website": null,
+  "tags": ["小微企业", "杭州余杭", "AI软件", "初创期"],
+  "website": "www.xiezi.tech",
   "slogan": null,
   "isListed": false,
   "stockCode": null,
   "revenueScale": null,
   "registration": {
     "registeredName": "楔子科技（杭州）有限公司",
-    "registeredCapital": null,
-    "paidCapital": null,
-    "establishedDate": null,
-    "legalRepresentative": null,
-    "businessStatus": "",
-    "shareholders": [],
-    "branchCount": null,
-    "interpretation": "",
-    "organizationType": "",
-    "keyFindings": []
+    "registeredCapital": "100万(元)",
+    "paidCapital": "10万(元)",
+    "establishedDate": "2022-07-22",
+    "legalRepresentative": "董瑞阳",
+    "businessStatus": "开业",
+    "shareholders": [
+      { "name": "董瑞阳", "ratio": "79%", "contribution": "79万(元)" },
+      { "name": "万先甲", "ratio": "10%", "contribution": "10万(元)" },
+      { "name": "代志远", "ratio": "10%", "contribution": "10万(元)" },
+      { "name": "李兰", "ratio": "1%", "contribution": "1万(元)" }
+    ],
+    "branchCount": 0,
+    "interpretation": "自然人控股企业，股权集中于创始人董瑞阳",
+    "organizationType": "有限责任公司(自然人投资或控股)",
+    "keyFindings": [
+      "对外投资楔子科技（长沙）有限公司51%股权，已注销",
+      "实缴资本仅10万，资金实力有限",
+      "无知识产权记录，技术积累待观察"
+    ]
   },
   "organization": {
-    "type": "",
-    "decisionChain": "",
-    "keyPersons": [],
-    "salesStrategy": ""
+    "type": "小微创业企业",
+    "decisionChain": "创始人/总经理董瑞阳直接决策，结构扁平",
+    "keyPersons": [
+      { "name": "董瑞阳", "title": "执行董事兼总经理", "role": "实际控制人", "background": "控股3家其他企业" },
+      { "name": "李兰", "title": "监事", "role": "管理层", "background": "" }
+    ],
+    "salesStrategy": "待了解"
   },
   "timing": {
-    "phase": "",
-    "analysisBasis": [],
-    "entryStrategy": "",
-    "urgency": ""
+    "phase": "初创成长期",
+    "analysisBasis": ["2022年成立", "参保5人", "实缴10万"],
+    "entryStrategy": "轻量级接触，建立信任",
+    "urgency": "待评估"
   },
   "hiring": {
     "keySignals": []
   },
   "competition": {
-    "industryRank": "",
-    "marketShare": "",
+    "industryRank": "不知名",
+    "marketShare": "极小",
     "mainCompetitors": [],
     "knownClients": []
   },
@@ -67,15 +79,18 @@
     }
   },
   "painPoints": [],
-  "opportunities": [],
+  "opportunities": [
+    "软件开发需求旺盛",
+    "AI应用开发市场增长"
+  ],
   "analysisPath": "C",
-  "confidence": 0.2,
+  "confidence": 0.65,
   "metadata": {
     "createdAt": "2026-04-22",
     "updatedAt": "2026-04-22",
     "createdBy": "AI",
-    "version": "1.0",
-    "sources": ["名称推断"],
-    "confidence": 0.2
+    "version": "2.0",
+    "sources": ["爱企查工商信息"],
+    "confidence": 0.65
   }
 }
