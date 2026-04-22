@@ -1,25 +1,81 @@
 {
   "companyName": "楔子科技（杭州）有限公司",
-  "createdAt": "2026-04-22",
-  "updatedAt": "2026-04-22",
-  "industry": "",
-  "size": "",
-  "location": "杭州",
-  "website": "",
-  "contact": {
-    "name": "",
-    "title": "",
-    "phone": "",
-    "email": ""
+  "shortName": "楔子科技",
+  "summary": "杭州地区科技企业",
+  "industry": "科技/软件",
+  "subIndustry": "",
+  "scale": "",
+  "mainBusiness": "",
+  "products": [],
+  "targetCustomers": [],
+  "businessModel": "",
+  "rating": "",
+  "tags": [],
+  "website": null,
+  "slogan": null,
+  "isListed": false,
+  "stockCode": null,
+  "revenueScale": null,
+  "registration": {
+    "registeredName": "楔子科技（杭州）有限公司",
+    "registeredCapital": null,
+    "paidCapital": null,
+    "establishedDate": null,
+    "legalRepresentative": null,
+    "businessStatus": "",
+    "shareholders": [],
+    "branchCount": null,
+    "interpretation": "",
+    "organizationType": "",
+    "keyFindings": []
   },
-  "business": {
-    "description": "",
-    "products": [],
-    "mainProducts": []
+  "organization": {
+    "type": "",
+    "decisionChain": "",
+    "keyPersons": [],
+    "salesStrategy": ""
   },
-  "tech": {
-    "stack": [],
-    "challenges": []
+  "timing": {
+    "phase": "",
+    "analysisBasis": [],
+    "entryStrategy": "",
+    "urgency": ""
   },
-  "notes": ""
+  "hiring": {
+    "keySignals": []
+  },
+  "competition": {
+    "industryRank": "",
+    "marketShare": "",
+    "mainCompetitors": [],
+    "knownClients": []
+  },
+  "riskAndPolicy": {
+    "legal": {
+      "lawsuitCount": null,
+      "executedPerson": false,
+      "dishonestPerson": false,
+      "businessAnomalies": [],
+      "equityFreeze": false
+    },
+    "policy": {
+      "isSpecializedSME": false,
+      "smeLevel": "",
+      "isHighTech": false,
+      "digitalTransformation": false,
+      "esgGreen": false
+    }
+  },
+  "painPoints": [],
+  "opportunities": [],
+  "analysisPath": "C",
+  "confidence": 0.2,
+  "metadata": {
+    "createdAt": "2026-04-22",
+    "updatedAt": "2026-04-22",
+    "createdBy": "AI",
+    "version": "1.0",
+    "sources": ["名称推断"],
+    "confidence": 0.2
+  }
 }
