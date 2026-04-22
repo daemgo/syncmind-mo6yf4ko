@@ -1,28 +1,32 @@
 {
   "companyName": "楔子科技（杭州）有限公司",
   "shortName": "楔子科技",
-  "summary": "杭州余杭区AI/软件开发小微企业，运营开源Web分析平台Rybbit，定位出海SaaS产品",
-  "industry": "科技/软件",
-  "subIndustry": "SaaS/数据分析",
+  "summary": "杭州余杭区AI软件企业，核心产品syncMind——AI驱动的B2B销售智能助手平台，基于Claude AI为销售团队赋能",
+  "industry": "科技/AI软件",
+  "subIndustry": "AI SaaS/销售科技",
   "scale": "小微",
-  "mainBusiness": "开源Web分析平台Rybbit开发运营；AI应用软件开发；软件外包服务",
+  "mainBusiness": "syncMind AI销售助手平台开发运营；B2B销售赋能和解决方案",
   "products": [
-    "Rybbit（开源Web分析平台）",
-    "Web Analytics（网站分析）",
-    "Product Analytics（产品分析）",
-    "Session Replay（会话回放）",
-    "Funnels（漏斗分析）"
+    "syncMind（AI销售智能助手平台）",
+    "客户档案生成（/profile）",
+    "销售进攻指南（/sales-guide）",
+    "需求分析整理（/requirements）",
+    "解决方案撰写（/plan-writer）",
+    "产品规格说明（/spec-writer）",
+    "AI洞察分析（/insights）",
+    "知识库管理（/knowledge-base）"
   ],
   "targetCustomers": [
-    "中小企业",
-    "独立开发者",
-    "需要网站分析的企业"
+    "B2B销售团队",
+    "售前工程师",
+    "企业销售管理者",
+    "科技/软件公司销售部门"
   ],
-  "businessModel": "SaaS订阅 + 开源 + 付费增值服务",
+  "businessModel": "SaaS订阅 + 解决方案服务",
   "rating": "",
-  "tags": ["开源", "SaaS", "Web分析", "出海", "杭州余杭", "初创期", "Rybbit"],
+  "tags": ["AI", "SaaS", "B2B销售", "Claude", "销售赋能", "杭州余杭", "syncMind"],
   "website": "www.xiezi.tech",
-  "slogan": "Open source web analytics powered by Rybbit",
+  "slogan": "AI驱动的B2B销售智能助手平台",
   "isListed": false,
   "stockCode": null,
   "revenueScale": null,
@@ -43,35 +47,36 @@
     "interpretation": "自然人控股企业，股权集中于创始人董瑞阳",
     "organizationType": "有限责任公司(自然人投资或控股)",
     "keyFindings": [
-      "核心产品为开源Web分析平台Rybbit（github: rybbit-io/rybbit）",
-      "产品版本v2.5.0，有完整的订阅收费模式",
+      "核心产品syncMind：AI驱动的B2B销售智能助手",
+      "基于Claude AI技术栈",
+      "技术栈：Next.js 16 + React 19 + TypeScript",
+      "产品定位：销售赋能工具集",
       "对外投资楔子科技（长沙）有限公司51%股权，已注销",
-      "实缴资本仅10万，资金实力有限",
-      "产品已完成商业化，有AppSumo等特殊定价方案"
+      "实缴资本10万，资金实力有限"
     ]
   },
   "organization": {
-    "type": "小微创业企业/SaaSStartup",
+    "type": "小微创业企业/AI Startup",
     "decisionChain": "创始人/总经理董瑞阳直接决策，结构扁平",
     "keyPersons": [
-      { "name": "董瑞阳", "title": "执行董事兼总经理", "role": "实际控制人", "background": "控股多家企业，疑似技术背景" },
+      { "name": "董瑞阳", "title": "执行董事兼总经理", "role": "实际控制人", "background": "控股多家企业，AI产品创始人" },
       { "name": "李兰", "title": "监事", "role": "管理层", "background": "" }
     ],
-    "salesStrategy": "开源社区获客 + SaaS订阅转化 + 联盟推广"
+    "salesStrategy": "待了解"
   },
   "timing": {
     "phase": "初创成长期",
-    "analysisBasis": ["2022年成立", "参保5人", "产品已商业化", "实缴10万"],
-    "entryStrategy": "轻量级接触，关注Rybbit产品动态",
+    "analysisBasis": ["2022年成立", "参保5人", "产品已成型", "实缴10万"],
+    "entryStrategy": "轻量级接触，建立信任",
     "urgency": "待评估"
   },
   "hiring": {
-    "keySignals": ["官网有招聘需求时可关注"]
+    "keySignals": []
   },
   "competition": {
-    "industryRank": "细分领域开源项目",
-    "marketShare": "极小（开源项目）",
-    "mainCompetitors": ["Plausible", "Umami", "Matomo", "Google Analytics"],
+    "industryRank": "细分领域新兴",
+    "marketShare": "极小",
+    "mainCompetitors": ["Generic AI助手", "传统CRM辅助功能"],
     "knownClients": []
   },
   "riskAndPolicy": {
@@ -93,32 +98,28 @@
   "painPoints": [
     "小微企业资源有限，团队仅5人",
     "实缴资本10万，资金链紧张风险",
-    "开源项目获客慢，商业化变现压力大",
-    "GitHub Star数和社区影响力待提升",
-    "与Plausible/Umami等竞品竞争激烈",
-    "需要持续投入开发但人力有限"
+    "AI产品竞争激烈，需要差异化定位",
+    "需要持续迭代产品功能和体验",
+    "商业化变现模式待验证"
   ],
   "opportunities": [
-    "开源项目社区增长潜力，GitHub可引流",
-    "出海SaaS市场机会，全球隐私合规需求",
-    "隐私合规趋势利好（替代Google Analytics）",
-    "可发展企业版/定制化服务增加收入",
-    "联盟推广计划(50%佣金)可快速获客",
-    "技术外包服务可作为现金流补充"
+    "B2B销售市场广阔，需求旺盛",
+    "AI赋能销售是趋势，细分赛道有机会",
+    "可结合syncMind自身能力服务客户",
+    "知识库和行业解决方案可作为增值服务"
   ],
   "dataSourceNote": {
-    "available": ["工商信息", "官网产品", "GitHub公开数据"],
-    "missing": ["客户需求访谈", "内部经营数据", "财务数据", "团队情况"],
-    "note": "痛点和商机为基于公开信息的推断，需通过拜访获取真实情况"
+    "available": ["工商信息", "README产品介绍"],
+    "missing": ["客户需求访谈", "内部经营数据", "财务数据", "团队情况", "定价策略"]
   },
   "analysisPath": "C",
-  "confidence": 0.75,
+  "confidence": 0.7,
   "metadata": {
     "createdAt": "2026-04-22",
     "updatedAt": "2026-04-22",
     "createdBy": "AI",
-    "version": "3.0",
-    "sources": ["爱企查工商信息", "官网www.xiezi.tech"],
-    "confidence": 0.75
+    "version": "4.0",
+    "sources": ["爱企查工商信息", "项目README.md"],
+    "confidence": 0.7
   }
 }
