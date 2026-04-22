@@ -1,18 +1,28 @@
 {
   "companyName": "楔子科技（杭州）有限公司",
   "shortName": "楔子科技",
-  "summary": "杭州余杭区软件/AI开发小微企业，2022年成立，主营软件开发、AI应用、软件外包服务",
+  "summary": "杭州余杭区AI/软件开发小微企业，运营开源Web分析平台Rybbit，定位出海SaaS产品",
   "industry": "科技/软件",
-  "subIndustry": "软件开发/人工智能",
+  "subIndustry": "SaaS/数据分析",
   "scale": "小微",
-  "mainBusiness": "软件开发；AI应用软件开发；软件外包服务；信息技术咨询服务",
-  "products": ["软件开发服务", "AI应用软件开发", "网络与信息安全软件"],
-  "targetCustomers": [],
-  "businessModel": "项目制/定制开发",
+  "mainBusiness": "开源Web分析平台Rybbit开发运营；AI应用软件开发；软件外包服务",
+  "products": [
+    "Rybbit（开源Web分析平台）",
+    "Web Analytics（网站分析）",
+    "Product Analytics（产品分析）",
+    "Session Replay（会话回放）",
+    "Funnels（漏斗分析）"
+  ],
+  "targetCustomers": [
+    "中小企业",
+    "独立开发者",
+    "需要网站分析的企业"
+  ],
+  "businessModel": "SaaS订阅 + 开源 + 付费增值服务",
   "rating": "",
-  "tags": ["小微企业", "杭州余杭", "AI软件", "初创期"],
+  "tags": ["开源", "SaaS", "Web分析", "出海", "杭州余杭", "初创期", "Rybbit"],
   "website": "www.xiezi.tech",
-  "slogan": null,
+  "slogan": "Open source web analytics powered by Rybbit",
   "isListed": false,
   "stockCode": null,
   "revenueScale": null,
@@ -33,33 +43,35 @@
     "interpretation": "自然人控股企业，股权集中于创始人董瑞阳",
     "organizationType": "有限责任公司(自然人投资或控股)",
     "keyFindings": [
+      "核心产品为开源Web分析平台Rybbit（github: rybbit-io/rybbit）",
+      "产品版本v2.5.0，有完整的订阅收费模式",
       "对外投资楔子科技（长沙）有限公司51%股权，已注销",
       "实缴资本仅10万，资金实力有限",
-      "无知识产权记录，技术积累待观察"
+      "产品已完成商业化，有AppSumo等特殊定价方案"
     ]
   },
   "organization": {
-    "type": "小微创业企业",
+    "type": "小微创业企业/SaaSStartup",
     "decisionChain": "创始人/总经理董瑞阳直接决策，结构扁平",
     "keyPersons": [
-      { "name": "董瑞阳", "title": "执行董事兼总经理", "role": "实际控制人", "background": "控股3家其他企业" },
+      { "name": "董瑞阳", "title": "执行董事兼总经理", "role": "实际控制人", "background": "控股多家企业，疑似技术背景" },
       { "name": "李兰", "title": "监事", "role": "管理层", "background": "" }
     ],
-    "salesStrategy": "待了解"
+    "salesStrategy": "开源社区获客 + SaaS订阅转化 + 联盟推广"
   },
   "timing": {
     "phase": "初创成长期",
-    "analysisBasis": ["2022年成立", "参保5人", "实缴10万"],
-    "entryStrategy": "轻量级接触，建立信任",
+    "analysisBasis": ["2022年成立", "参保5人", "产品已商业化", "实缴10万"],
+    "entryStrategy": "轻量级接触，关注Rybbit产品动态",
     "urgency": "待评估"
   },
   "hiring": {
-    "keySignals": []
+    "keySignals": ["官网有招聘需求时可关注"]
   },
   "competition": {
-    "industryRank": "不知名",
-    "marketShare": "极小",
-    "mainCompetitors": [],
+    "industryRank": "细分领域开源项目",
+    "marketShare": "极小（开源项目）",
+    "mainCompetitors": ["Plausible", "Umami", "Matomo", "Google Analytics"],
     "knownClients": []
   },
   "riskAndPolicy": {
@@ -78,19 +90,24 @@
       "esgGreen": false
     }
   },
-  "painPoints": [],
+  "painPoints": [
+    "小微企业资源有限",
+    "需要扩大用户基数",
+    "商业化变现能力待验证"
+  ],
   "opportunities": [
-    "软件开发需求旺盛",
-    "AI应用开发市场增长"
+    "开源项目社区增长潜力",
+    "出海SaaS市场机会",
+    "隐私合规趋势利好（替代GA）"
   ],
   "analysisPath": "C",
-  "confidence": 0.65,
+  "confidence": 0.75,
   "metadata": {
     "createdAt": "2026-04-22",
     "updatedAt": "2026-04-22",
     "createdBy": "AI",
-    "version": "2.0",
-    "sources": ["爱企查工商信息"],
-    "confidence": 0.65
+    "version": "3.0",
+    "sources": ["爱企查工商信息", "官网www.xiezi.tech"],
+    "confidence": 0.75
   }
 }
